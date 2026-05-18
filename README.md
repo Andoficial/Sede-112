@@ -55,4 +55,3 @@ La administración de Sede 112 se reserva el derecho de modificar estos Término
 ## 9. Aceptación
 
 El acceso y uso de Sede 112 implica la aceptación plena y sin reservas de estos Términos de Servicio.
-Si quieres, el siguiente paso lógico sería hacerte la **Política de Privacidad (más legal aún)** o un **sistema de sanciones tipo CAD real (muy usado en Sonoran/ERLC)**.
